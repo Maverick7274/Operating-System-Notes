@@ -20,6 +20,8 @@
 
 Overall, an operating system is the backbone of any computer system. It provides a foundation on which software applications can be built and executed, and it ensures that the hardware resources are utilized effectively and efficiently.
 
+---
+
 ## Evolution of Operating System (OS)
 
 * The evolution of operating systems can be traced back to the early days of computing in the mid-20th century.
@@ -43,4 +45,33 @@ Overall, an operating system is the backbone of any computer system. It provides
     * Interactive Systems: In the 1990s and 2000s, interactive operating systems were developed, which allowed users to interact with the computer using a graphical user interface (GUI). This enabled the development of user-friendly operating systems, such as Windows and Mac OS.
 
 Overall, the evolution of operating systems has been driven by advances in computer hardware, changes in computing needs and paradigms, and advancements in software development techniques. Today, operating systems are critical components of virtually every computing device and play a central role in enabling a wide range of applications and services.
+
+---
+
+## System Protection in Operating Systems
+
+* System protection in operating systems refers to the various measures that are implemented to protect a computer system and its resources from unauthorized access, malware, and other security threats.
+
+* System protection is an essential function of modern operating systems, as it helps ensure the security and integrity of the system and its data.
+
+* Here are some of the key measures that are used to provide system protection in operating systems:
+
+    * User Authentication: User authentication is the process of verifying the identity of a user who is attempting to access a computer system or its resources. Operating systems typically use a combination of usernames and passwords, biometric data, smart cards, and other methods to authenticate users and ensure that only authorized users can access the system.
+
+    * Access Control: Access control refers to the mechanisms used to control the access of users to resources on the system. Operating systems typically use access control lists (ACLs) or other methods to specify which users or groups of users have access to particular resources, and what level of access they have.
+
+    * Encryption: Encryption is the process of transforming data into a format that is unreadable to unauthorized users. Operating systems typically use encryption to protect sensitive data, such as passwords, credit card numbers, and other personal information, both when it is stored on the system and when it is transmitted over networks.
+
+    * Antivirus and Anti-Malware Software: Antivirus and anti-malware software are programs that are designed to detect and remove viruses, spyware, and other types of malware from the system. Operating systems typically provide built-in antivirus and anti-malware software or support for third-party software.
+
+    * Firewall: A firewall is a network security system that monitors and controls incoming and outgoing network traffic. Operating systems typically provide built-in firewalls or support for third-party firewalls that can help prevent unauthorized access to the system.
+
+    * System Updates: Operating system vendors frequently release updates and patches to address security vulnerabilities and other issues in the operating system. Users should ensure that their operating systems are kept up-to-date with the latest patches and updates to ensure maximum protection against security threats.
+
+Overall, system protection is a critical function of modern operating systems, as it helps ensure the security and integrity of the system and its data. Operating system vendors are continually working to improve system protection, and users should take steps to ensure that their systems are protected by implementing best practices for security and keeping their operating systems up-to-date with the latest patches and updates.
+
+
+---
+
+## Operating System Structure
 
