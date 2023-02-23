@@ -36,13 +36,11 @@ Overall, an operating system is the backbone of any computer system. It provides
 
     * Time-Sharing Systems: In the 1960s and 1970s, time-sharing operating systems were developed, which allowed multiple users to access a computer system at the same time. This enabled interactive computing, where users could interact with the computer in real-time.
 
-    * Personal Computer Operating Systems: In the 1980s, personal computers became popular, and operating systems were developed specifically for these machines. Microsoft Windows and Apple Macintosh were two of the most popular operating systems of this era.
+    * Multiprocessing Systems: In the 1970s and 1980s, multiprocessing operating systems were developed, which allowed multiple programs to run simultaneously on a single computer. This enabled multitasking, where multiple programs could be executed concurrently.
 
-    * Client-Server Operating Systems: In the 1990s, client-server computing became popular, and operating systems were developed to support this model. These operating systems, such as Windows NT and Linux, allowed users to access shared resources on a network.
+    * Distributed Systems: In the 1980s and 1990s, distributed operating systems were developed, which allowed multiple computers to be connected and used as a single system. This enabled the development of large-scale computing systems, such as the Internet.
 
-    * Mobile Operating Systems: In the 2000s and 2010s, mobile computing became popular, and operating systems were developed specifically for mobile devices. Examples of these operating systems include iOS and Android.
-
-    * Cloud Operating Systems: In recent years, cloud computing has become increasingly popular, and operating systems have been developed to support this model. Cloud operating systems, such as Google Chrome OS, allow users to access applications and data stored in the cloud.
+    * Interactive Systems: In the 1990s and 2000s, interactive operating systems were developed, which allowed users to interact with the computer using a graphical user interface (GUI). This enabled the development of user-friendly operating systems, such as Windows and Mac OS.
 
 Overall, the evolution of operating systems has been driven by advances in computer hardware, changes in computing needs and paradigms, and advancements in software development techniques. Today, operating systems are critical components of virtually every computing device and play a central role in enabling a wide range of applications and services.
 
