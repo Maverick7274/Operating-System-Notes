@@ -119,3 +119,32 @@ The structure of an operating system can vary depending on the specific OS and t
     * User Interface: The operating system provides a user interface, such as a command-line interface (CLI) or a graphical user interface (GUI), that enables users to interact with the system and run applications.
 
 Overall, operating system services are critical for ensuring the efficient and effective management of computer hardware and software resources. The specific services provided by an operating system can vary depending on the OS and the hardware and software platforms it is designed to support.
+
+
+---
+
+## System Program and Calls
+
+* System programs are software programs that are designed to perform specific tasks related to the management and operation of an operating system.
+
+* These programs are generally written in a low-level programming language and interact directly with the operating system kernel to access system resources and provide services to other programs running on the system.
+
+* System calls, also known as kernel calls or system services, are the mechanisms that allow user programs to request services from the operating system.
+
+* These calls provide an interface between user programs and the operating system kernel, allowing programs to access system resources and perform various tasks, such as creating or deleting files, managing memory, and communicating with other programs and devices.
+
+* System programs and system calls work together to provide a wide range of functionality and services to the user. Some examples of system programs and system calls are:
+
+    * Device drivers: System programs that enable communication between the operating system and hardware devices, such as printers, scanners, and network adapters.
+
+    * File management programs: System programs that provide functions for creating, deleting, copying, and moving files and directories.
+
+    * Process management programs: System programs that provide functions for creating, deleting, and managing processes and threads.
+
+    * System call interface: A set of system calls that provide access to various system resources and services, such as input/output operations, memory management, and interprocess communication.
+
+    * Utility programs: System programs that provide various utilities, such as system backup and restore, disk management, and network diagnostics.
+
+* System programs and system calls are critical components of an operating system and are essential for managing system resources and providing services to user programs.
+
+* The specific programs and calls available in an operating system can vary depending on the OS and the hardware and software platforms it is designed to support.
