@@ -94,3 +94,28 @@ Overall, system protection is a critical function of modern operating systems, a
     * Application Programming Interfaces (APIs): APIs are interfaces that enable applications to communicate with the operating system and other applications. APIs provide a standardized way for applications to access system resources, such as the file system, network, and input/output devices.
 
 The structure of an operating system can vary depending on the specific OS and the hardware and software platforms it is designed to support. However, the components and modules described above are common to most modern operating systems and play a critical role in their functionality and performance.
+
+
+---
+
+## Operating System Services
+
+* Operating system services refer to the various functions and features that an operating system provides to enable efficient and effective management of computer hardware and software resources. 
+
+* Here are some of the key operating system services:
+
+    * Process Management: The operating system manages and schedules processes and threads, which are the basic units of execution on a computer system. The OS is responsible for allocating resources, such as CPU time and memory, to different processes, and for ensuring that processes can communicate with each other and access shared resources.
+
+    * Memory Management: The operating system is responsible for managing system memory, including allocating and deallocating memory for processes and managing virtual memory. Virtual memory enables a computer to use more memory than it physically has available, by temporarily transferring data from RAM to disk storage.
+
+    * Device Management: The operating system manages devices such as printers, scanners, and network adapters. The OS provides device drivers that enable the system to interact with these devices, and manages the allocation and sharing of device resources among processes.
+
+    * File Management: The operating system provides a file system that organizes and manages data on storage devices, such as hard drives and solid-state drives. The file system enables users to create, access, and modify files and folders, and provides mechanisms for protecting and securing data.
+
+    * Security Management: The operating system provides various security services, including user authentication, access control, encryption, and antivirus software. These services help protect the system and its resources from unauthorized access and malware attacks.
+
+    * Network Management: The operating system provides network services, such as protocols for communication between computers, network configuration and management tools, and support for network-based applications.
+
+    * User Interface: The operating system provides a user interface, such as a command-line interface (CLI) or a graphical user interface (GUI), that enables users to interact with the system and run applications.
+
+Overall, operating system services are critical for ensuring the efficient and effective management of computer hardware and software resources. The specific services provided by an operating system can vary depending on the OS and the hardware and software platforms it is designed to support.
